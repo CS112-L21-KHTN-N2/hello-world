@@ -5,11 +5,11 @@
 
 **Seminar : Greedy Algorithm**
 1. Slide :
-2. Code :
+2. [Code](https://github.com/CS112-L21-KHTN-N2/Seminar/blob/main/code.ipynb) :
 
 **Bài tập tuần**
-1. Tuần 3:
-2. Tuần 4:
+1. [Tuần 3](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_3)
+2. [Tuần 4](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_4)
 
 **Bài tập về nhà**
 1. Divide and Conquer:
