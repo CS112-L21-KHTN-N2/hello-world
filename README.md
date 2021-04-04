@@ -4,8 +4,8 @@
 2. Nguyễn Phương Bảo Ngọc - 19521907
 
 **Seminar : Greedy Algorithm**
-1. Slide :
-2. [Code](https://github.com/CS112-L21-KHTN-N2/Seminar/blob/main/code.ipynb) :
+1. Slide
+2. [Code](https://github.com/CS112-L21-KHTN-N2/Seminar/blob/main/code.ipynb)
 
 **Bài tập tuần**
 1. [Tuần 3](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_3)
