@@ -1,4 +1,4 @@
-# hello-world
-First step to study Design and Analysis Algorithm.
-This is Group 2 github with 2 members: Pham Do Hoang My and Nguyen Phuong Bao Ngoc.
-All Assignments and project we do while study DAA will be stored in here.
+# Phân tích và thiết kế thuật toán - CS112.L21.KHTN
+Nhóm 2:
+1. Phạm Đỗ Hoàng My - 19521863
+2. Nguyễn Phương Bảo Ngọc - 19521907
