@@ -7,6 +7,7 @@
 1. [Slide](https://github.com/CS112-L21-KHTN-N2/Seminar/blob/main/Greedy%20Algorithm.pdf)
 2. [Code](https://github.com/CS112-L21-KHTN-N2/Seminar/blob/main/code.ipynb)
 3. [BTVN](https://github.com/CS112-L21-KHTN-N2/Seminar/blob/main/BTVN.pdf)
+4. [Nộp BTVN] (https://drive.google.com/drive/folders/1IT9hTV7PeHPE7GcwvOms5vi_gS2W1dON)
 
 **Bài tập tuần**
 1. [Tuần 3](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_3)
