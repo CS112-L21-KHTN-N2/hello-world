@@ -15,5 +15,6 @@
 
 **Bài tập về nhà**
 1. [Divide and Conquer](https://github.com/CS112-L21-KHTN-N2/Homework/blob/main/Divide%20%26%20Conquer/Nhom2.ipynb)
+2. [Sudoku](https://github.com/CS112-L21-KHTN-N2/Homework/blob/main/Sudoku/sudoku.ipynb)
 
 **Bài tập tự luyện**
