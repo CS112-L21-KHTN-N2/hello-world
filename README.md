@@ -9,7 +9,7 @@
 3. [BTVN](https://github.com/CS112-L21-KHTN-N2/Seminar/blob/main/BTVN.pdf)
 
 **Bài tập tuần**
-1. [Tuần 3](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_3): Tảo biển, Trạm thu phí
+1. [Tuần 3](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_3)
 2. [Tuần 4](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_4)
 3. [Tuần 5](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_5)
 
