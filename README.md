@@ -12,6 +12,7 @@
 1. [Tuần 3](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_3)
 2. [Tuần 4](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_4)
 3. [Tuần 5](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_5)
+4. [Tuần 8](https://github.com/CS112-L21-KHTN-N2/Weekly_Practice/tree/main/Tuan_8)
 
 **Bài tập về nhà**
 1. [Divide and Conquer](https://github.com/CS112-L21-KHTN-N2/Homework/blob/main/Divide%20%26%20Conquer/Nhom2.ipynb)
