@@ -19,5 +19,6 @@
 2. [Back Tracking](https://github.com/CS112-L21-KHTN-N2/Homework/blob/main/Sudoku/sudoku.ipynb)
 3. [Dynamic Programming](https://github.com/CS112-L21-KHTN-N2/Homework/blob/main/Dynamic%20Programming/Nh%C3%B3m_2.ipynb)
 4. [Geometric](https://github.com/CS112-L21-KHTN-N2/Homework/blob/main/Geometric%20Algorithm/Nh%C3%B3m_2.ipynb)
+5. [Graph](https://github.com/CS112-L21-KHTN-N2/Homework/blob/main/Graph/Nh%C3%B3m%202.ipynb)
 
 **Bài tập tự luyện**
